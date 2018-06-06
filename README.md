@@ -1,1 +1,1 @@
-Project that using JPA repository and mysql databace with Spring boot
+Project that using JPA repository and postgreSql databace with Spring boot
